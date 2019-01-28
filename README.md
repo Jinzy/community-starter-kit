@@ -1,17 +1,14 @@
-# welcome bot: A Probot App
+# welcome to vscmuya a VSCode Markdown plugin
 
-DESCRIPTION PLACEHOLDER
+Muya is a web based markdown editor based on the Mark Text porject. vscmuya is an effort of wrapping it with VSCode plugin
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Let you edit markdown files in vscode with Muya, a WYSWYG editor.
 
 ## Getting started
 
-1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
-
-- Pull requests: Read & Write
-- Issues: Read & Write
+1. Install [vscmuya](https://github.com/jinzy/vscmuya). 
 
 2. Create a .github/config.yml file to check for content of the comments:
 
